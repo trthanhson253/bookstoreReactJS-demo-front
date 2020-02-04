@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc34ac2a.chunk.css",
+    "main.js": "/static/js/main.91217100.chunk.js",
+    "main.js.map": "/static/js/main.91217100.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7086c78b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7086c78b.js.map",
+    "static/js/2.6cfa9f77.chunk.js": "/static/js/2.6cfa9f77.chunk.js",
+    "static/js/2.6cfa9f77.chunk.js.map": "/static/js/2.6cfa9f77.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf2d8caf6cbb7e44739f71c790ccf088.js": "/precache-manifest.bf2d8caf6cbb7e44739f71c790ccf088.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fc34ac2a.chunk.css.map": "/static/css/main.fc34ac2a.chunk.css.map",
+    "static/js/2.6cfa9f77.chunk.js.LICENSE.txt": "/static/js/2.6cfa9f77.chunk.js.LICENSE.txt",
+    "static/media/homepage_business_2019_holiday.jpg": "/static/media/homepage_business_2019_holiday.d7ddb20f.jpg",
+    "static/media/homepage_childrens_2019_holiday.jpg": "/static/media/homepage_childrens_2019_holiday.35317e84.jpg",
+    "static/media/homepage_cookbooks_2019_holiday.jpg": "/static/media/homepage_cookbooks_2019_holiday.f53b4935.jpg",
+    "static/media/homepage_crafting_2019_holiday.jpg": "/static/media/homepage_crafting_2019_holiday.c68c0bce.jpg",
+    "static/media/homepage_fiction_2019_holiday.jpg": "/static/media/homepage_fiction_2019_holiday.faad9c9d.jpg",
+    "static/media/homepage_mystery_2019_holiday.jpg": "/static/media/homepage_mystery_2019_holiday.30317cd2.jpg",
+    "static/media/homepage_romance_2019_holiday.jpg": "/static/media/homepage_romance_2019_holiday.26ce5389.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7086c78b.js",
+    "static/js/2.6cfa9f77.chunk.js",
+    "static/css/main.fc34ac2a.chunk.css",
+    "static/js/main.91217100.chunk.js"
+  ]
+}
